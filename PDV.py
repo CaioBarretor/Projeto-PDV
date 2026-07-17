@@ -1,7 +1,10 @@
 import time # Importa a biblioteca time, que é usada para adicionar atrasos no programa, simulando o tempo de processamento e melhorando a experiência do usuário.
+
+
 Produtos = {"arroz": 10.50, "feijão": 8.75, "macarrão": 5.25, "açúcar": 4.00, "sal": 2.50} # Estrutura usada para simular um banco de dados de produtos, onde a chave é o nome do produto e o valor é o preço do produto.
 Detalhe = "=" * 80 # Detalhe usado para separar as seções do programa e deixar a interface mais organizada.
 LimparConsole = "\n" * 100 # Usado para deixar o console limpo e organizado, simulando o efeito de limpar a tela do console.
+
 
 def Encerrar(): # Função usada para encerrar o programa de forma organizada, exibindo mensagens de despedida e agradecimento ao usuário.
     print(LimparConsole)
