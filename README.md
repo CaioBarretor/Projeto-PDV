@@ -1,7 +1,7 @@
 # 🛒 Sistema de PDV em Python
 Este projeto consiste em um sistema de Ponto de Venda (PDV) desenvolvido em Python com foco no aprendizado dos principais conceitos da linguagem. A aplicação funciona inteiramente pelo terminal e simula o fluxo básico de um caixa, permitindo o gerenciamento de produtos e a realização de vendas.
 
-#Funcionalidades:
+# Funcionalidades:
 
 Cadastro de novos produtos.
 Remoção de produtos cadastrados.
